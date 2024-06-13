@@ -1,1 +1,1 @@
-# Quiz-3-4
+This project analyzes and visualizes earthquake data using Python's pandas and matplotlib libraries. It utilizes the "Significant Earthquakes 1965-2016" dataset from Kaggle to perform various data cleaning, manipulation, and visualization tasks.
